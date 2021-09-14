@@ -130,5 +130,8 @@ dmypy.json
 
 ##############################
 
+# Large python pickle objects
+*.pkl
+
 # Oreilly-ML-2 project-specific exclusions
 datasets/
